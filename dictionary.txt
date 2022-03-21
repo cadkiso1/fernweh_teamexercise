@@ -15,7 +15,7 @@ Lederhose: leather pants
 Schloss: lock
 wettbewerbsfaehig: competitive
 Mehlhase: flour bunny 
-Gebaeck
+Gebaeck: Pastry
 Baeckerei: Bakery
 Hund: dog
 Doener :Doner
