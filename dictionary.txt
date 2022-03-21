@@ -11,7 +11,7 @@ BMW
 Biergarten: Beer Garden
 Ratskeller: a bar or restaurant located in the basement of a city hall (Rathaus) or nearby.
 Dirndel 
-Lederhose 
+Lederhose: leather pants
 Schloss: lock
 wettbewerbsfaehig: competitive
 Mehlhase: flour bunny 
