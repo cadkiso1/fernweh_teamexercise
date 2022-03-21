@@ -18,7 +18,8 @@ Mehlhase: flour bunny
 Gebaeck
 Baeckerei: Bakery
 Hund: dog
-Doener 
+Doener :Doner
 Apfelkuchen: Apple Pie 
-Schloss 
-Eltz
+Schloss :Lock
+Eltz:
+
